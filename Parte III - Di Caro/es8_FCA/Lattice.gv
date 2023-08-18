@@ -1,0 +1,114 @@
+// <Lattice object of 2 atoms 31 concepts 4 coatoms at 0x22cd54b66e0>
+digraph Lattice {
+	node [label="" shape=circle style=filled width=.25]
+	edge [dir=none labeldistance=1.5 minlen=2]
+	c0
+	c0 -> c0 [color=transparent headlabel=airplane labelangle=270]
+	c1
+	c1 -> c1 [color=transparent headlabel=helicopter labelangle=270]
+	c1 -> c1 [color=transparent labelangle=90 taillabel=Wings]
+	c1 -> c0
+	c2
+	c2 -> c2 [color=transparent headlabel="car bus truck van (furgone)" labelangle=270]
+	c2 -> c0
+	c3
+	c3 -> c3 [color=transparent headlabel=tractor labelangle=270]
+	c3 -> c2
+	c4
+	c4 -> c4 [color=transparent headlabel=motorcycle labelangle=270]
+	c4 -> c3
+	c5
+	c5 -> c5 [color=transparent headlabel="scooter (monopattino)" labelangle=270]
+	c5 -> c5 [color=transparent labelangle=90 taillabel=Tires]
+	c5 -> c4
+	c6
+	c6 -> c6 [color=transparent headlabel="subway tram train" labelangle=270]
+	c6 -> c2
+	c7
+	c7 -> c3
+	c7 -> c6
+	c8
+	c8 -> c8 [color=transparent headlabel=ship labelangle=270]
+	c8 -> c6
+	c9
+	c9 -> c4
+	c9 -> c7
+	c10
+	c10 -> c10 [color=transparent headlabel="carriage (carrozza)" labelangle=270]
+	c10 -> c7
+	c11
+	c11 -> c7
+	c11 -> c8
+	c12
+	c12 -> c12 [color=transparent labelangle=90 taillabel="Air Conditioning"]
+	c12 -> c1
+	c12 -> c8
+	c13
+	c13 -> c13 [color=transparent headlabel=bicycle labelangle=270]
+	c13 -> c9
+	c14
+	c14 -> c5
+	c14 -> c9
+	c15
+	c15 -> c9
+	c15 -> c11
+	c16
+	c16 -> c11
+	c16 -> c12
+	c17
+	c17 -> c10
+	c17 -> c13
+	c18
+	c18 -> c14
+	c18 -> c15
+	c19
+	c19 -> c15
+	c19 -> c16
+	c20
+	c20 -> c20 [color=transparent headlabel="raft (zattera)" labelangle=270]
+	c20 -> c13
+	c20 -> c15
+	c21
+	c21 -> c21 [color=transparent headlabel=rollerblades labelangle=270]
+	c21 -> c13
+	c21 -> c14
+	c22
+	c22 -> c22 [color=transparent labelangle=90 taillabel=Lights]
+	c22 -> c18
+	c22 -> c19
+	c23
+	c23 -> c23 [color=transparent headlabel="aerial tramway (funivia) boat" labelangle=270]
+	c23 -> c16
+	c24
+	c24 -> c19
+	c24 -> c23
+	c25
+	c25 -> c25 [color=transparent labelangle=90 taillabel="Windows Door"]
+	c25 -> c10
+	c25 -> c23
+	c26
+	c26 -> c26 [color=transparent labelangle=90 taillabel=Brakes]
+	c26 -> c18
+	c26 -> c20
+	c26 -> c21
+	c27
+	c27 -> c27 [color=transparent headlabel=skateboard labelangle=270]
+	c27 -> c27 [color=transparent labelangle=90 taillabel=Wheels]
+	c27 -> c17
+	c27 -> c21
+	c28
+	c28 -> c28 [color=transparent labelangle=90 taillabel=Engine]
+	c28 -> c22
+	c28 -> c24
+	c29
+	c29 -> c29 [color=transparent labelangle=90 taillabel=Seat]
+	c29 -> c17
+	c29 -> c20
+	c29 -> c24
+	c29 -> c25
+	c30
+	c30 -> c26
+	c30 -> c27
+	c30 -> c28
+	c30 -> c29
+}

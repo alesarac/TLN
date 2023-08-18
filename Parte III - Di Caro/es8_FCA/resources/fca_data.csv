@@ -1,0 +1,21 @@
+Vehicle,Engine,Windows,Wheels,Wings,Door,Seat,Tires,Lights,Brakes,Air Conditioning
+bicycle,,,X,,,X,,,X,
+raft (zattera),,,,,,X,,,X,
+car,X,X,X,,X,X,X,X,X,X
+airplane,X,X,X,X,X,X,X,X,X,X
+bus,X,X,X,,X,X,X,X,X,X
+skateboard,,,X,,,,,,,
+scooter (monopattino),X,,X,,,,X,X,X,
+motorcycle,X,,X,,,X,X,X,X,
+truck,X,X,X,,X,X,X,X,X,X
+tractor,X,X,X,,X,X,X,X,X,
+subway,X,X,X,,X,X,,X,X,X
+aerial tramway (funivia),X,X,,,X,X,,,,
+helicopter,X,X,,X,X,X,,X,,X
+tram,X,X,X,,X,X,,X,X,X
+carriage (carrozza),,X,X,,X,X,,,,
+boat,X,X,,,X,X,,,,
+train,X,X,X,,X,X,,X,X,X
+van (furgone),X,X,X,,X,X,X,X,X,X
+ship,X,X,,,X,X,,X,X,X
+rollerblades,,,X,,,,,,X,
