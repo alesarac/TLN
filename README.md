@@ -15,7 +15,9 @@ Questa parte del corso, guidata dal Prof. Mazzei, fornisce una base solida nell'
 - Dialogo
 - Traduzione automatica
 
-Il progetto è stato svolto insieme a @enricomosca e @alby5062
+Il progetto è stato svolto insieme a 
+- [@enricomosca](https://github.com/enricomosca)
+- [@alby5062](https://github.com/alby5062)
 
 ## Parte II: Semantica Lessicale e Rappresentazione della Conoscenza
 
