@@ -4,7 +4,7 @@ Progetti del corso universitario di Tecnologie del Linguaggio Naturale.
 <br/>
 Il corso è suddiviso in tre parti principali
 <br/>
-## Parte I: Introduzione all'Elaborazione Automatica del Linguaggio Naturale (svolta insieme a @enricomosca e @alby5062
+## Parte I: Introduzione all'Elaborazione Automatica del Linguaggio Naturale
 
 Questa parte del corso, guidata dal Prof. Mazzei, fornisce una base solida nell'elaborazione automatica del linguaggio naturale. Gli argomenti trattati includono:
 
@@ -14,6 +14,8 @@ Questa parte del corso, guidata dal Prof. Mazzei, fornisce una base solida nell'
 - Parsing e generazione
 - Dialogo
 - Traduzione automatica
+
+Il progetto è stato svolto insieme a @enricomosca e @alby5062
 
 ## Parte II: Semantica Lessicale e Rappresentazione della Conoscenza
 
