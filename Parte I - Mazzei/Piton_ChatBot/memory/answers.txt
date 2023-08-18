@@ -1,0 +1,9 @@
+Risposta utente: lint - score: 1
+Risposta utente: an in gredient is lavender - è SBAGLIATA -> aiuto
+Risposta utente: fire seds - score: -20.0
+Risposta utente: i don't konw - è SBAGLIATA -> aiuto
+Risposta utente: yes - score: -0.6666666666666666
+
+--------------------------
+
+Risposta utente: snowdrop - score: 2

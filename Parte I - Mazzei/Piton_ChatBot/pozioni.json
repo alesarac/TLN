@@ -1,0 +1,62 @@
+{
+  "Fire breathing potion": [
+    1,
+    [
+      "lint",
+      "lavender",
+      "dragon's horn powder",
+      "fire seeds",
+      "valerian twigs"
+    ]
+  ],
+  "Felix Felicis": [
+    3,
+    [
+      "ashwinder's egg",
+      "squill bulb",
+      "thyme tincture",
+      "occamy egg shell",
+      "powder common rue"
+    ]
+  ],
+  "Memory potion": [
+    2,
+    [
+      "jobberknoll's feathers",
+      "powder sage",
+      "snowdrop"
+    ]
+  ],
+  "Ageing potion": [
+    4,
+    [
+      "red wine",
+      "prune Juice",
+      "hairy Fungus",
+      "gatepillar",
+      "bat tongue"
+    ]
+  ],
+  "Amortentia": [
+    2,
+    [
+      "ashwinder's egg",
+      "rose thorn",
+      "peppermint",
+      "powered moonstone",
+      "pearl dust"
+    ]
+  ],
+    "Polyjuice": [
+    5,
+    [
+      "lacewing flies",
+      "leeches",
+      "bicorn horn",
+      "knotgrass",
+      "fluxweed",
+      "boomslang skin",
+      "hait"
+    ]
+  ]
+}
